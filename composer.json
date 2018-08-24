@@ -1,7 +1,7 @@
 {
   "name": "sanpakyou027/laravel-sidebar",
   "description": "A sidebar builder for Laravel",
-  "license": "proprietary",
+  "license": "MIT",
   "keywords": [
     "laravel",
     "sidebar",
